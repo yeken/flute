@@ -1,2 +1,4 @@
 /public/packages/*
+
 /vendor/*
+!/vendor/laracasts/
